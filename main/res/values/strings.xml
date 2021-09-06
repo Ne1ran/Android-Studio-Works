@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="atoms">Атомов</string>
+    <string name="gatheratoms">Присоединить атом</string>
+</resources>
