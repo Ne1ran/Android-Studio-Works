@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="size">150dp</dimen>
-    <dimen name="bigsp">50sp</dimen>
-    <dimen name="fon_border">10dp</dimen>
-    <dimen name="smallsp">25sp</dimen>
-    <dimen name="padding">15sp</dimen>
-</resources>
