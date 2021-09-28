@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Таблица голова-глаза</string>
+    <string name="text">Таблица счета глаз</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="dvoetoch" translatable="false">:</string>
+    <string name="reset">Сброс</string>
+    <string name="bear" translatable="false">bear</string>
+    <string name="usec" translatable="false">usec</string>
+    <string name="Headeyestobears">Глаза бирцам</string>
+    <string name="Headeyestousecs">Глаза юсекам</string>
+</resources>

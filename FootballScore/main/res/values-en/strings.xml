@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scoreboard of Head-eyes</string>
+    <string name="Headeyestobears">Head-eyes to BEAR\'s</string>
+    <string name="Headeyestousecs">Head-eyes to USEC\'s</string>
+    <string name="reset">Reset</string>
+    <string name="text">Scoreboard of Head-eyes</string>
+</resources>
